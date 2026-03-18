@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="soma dos valores"/>
+        <attribute name="authors" value="I1D46B"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-03-18 02:07:59 "/>
+        <attribute name="created" value="STFENDZCO0VDRlA1MDdEMTI2MzU4ODsyMDI2LTAzLTE4OyIwMTo1Njo1OCAiOzI0NDM="/>
+        <attribute name="edited" value="STFENDZCO0VDRlA1MDdEMTI2MzU4ODsyMDI2LTAzLTE4OyIwMjowNzo1OSAiOzI7MjU1MA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="A" type="Integer" array="False" size=""/>
+            <assign variable="A" expression="7"/>
+            <declare name="B" type="Integer" array="False" size=""/>
+            <assign variable="B" expression="7"/>
+            <declare name="c" type="Integer" array="False" size=""/>
+            <assign variable="c" expression="A+B"/>
+            <output expression="&quot;vc somou &quot; &amp; A &amp; &quot; + &quot; &amp; B &amp; &quot; e C &#233; igual a &quot; &amp; C" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
