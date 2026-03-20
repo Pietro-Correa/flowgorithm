@@ -1,4 +1,4 @@
-# Meu Projeto
+# Flowgorithm
 
 * *Exercício 1* *
 ***O programa lê o nome de uma pessoa e exibe uma mensage de "Ola fulano".***
