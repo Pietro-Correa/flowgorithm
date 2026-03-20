@@ -1,13 +1,13 @@
 # Meu Projeto
 
 * *Exercício 1* *
-***Lê o nome de uma pessoa e exibe uma mensage de Ola fulano.***
+***O programa lê o nome de uma pessoa e exibe uma mensage de "Ola fulano".***
 * *Exercício 2* *
-***Lê dois números, realiza a soma entre eles e mostra o resultado final deles.***
+***O programa lê dois números, soma eles e mostra o resultado final da soma.***
 * *Exercício 3* *
-***Lê a idade, verifica se ela é maior ou menor de 18 usando uma condição.***
+***O programa lê a idade, verifica se ela é maior ou menor de 18 usando uma condição.***
 * *Exercício 4* *
-***Lê um número e identifica se ele é positivo, negativo ou zero.***
+***O programa lê um número e identifica se ele é positivo, negativo ou igual a zero.***
 
 * *Exercício 5* *
-***Lê duas notas, calcula a média entre delas e mostra o resultado final.***
+***O programa lê duas notas, calcula a média entre delas e mostra o resultado final.***
